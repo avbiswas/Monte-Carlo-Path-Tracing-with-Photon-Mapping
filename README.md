@@ -8,19 +8,19 @@ A brief report discussing the techniques used in the project is added in the .pd
 
 ![](./Renders/1.png)
 
-![](./Renders/2.png)
+![](./Renders/2.PNG)
 
-![](./Renders/3.png)
+![](./Renders/3.PNG)
 
-![](./Renders/4.png)
+![](./Renders/4.PNG)
 
-![](./Renders/5.png)
+![](./Renders/5.PNG)
 
-![](./Renders/6.png)
+![](./Renders/6.PNG)
 
-![](./Renders/7.png)
+![](./Renders/7.PNG)
 
-![](./Renders/8.png)
+![](./Renders/8.PNG)
 
 
 <br><br>
