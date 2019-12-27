@@ -12,8 +12,6 @@ A brief report discussing the techniques used in the project is added in the .pd
 
 ![](./Renders/3.PNG)
 
-![](./Renders/4.PNG)
-
 ![](./Renders/5.PNG)
 
 ![](./Renders/6.PNG)
